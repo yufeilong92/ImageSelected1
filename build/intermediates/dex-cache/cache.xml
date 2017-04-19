@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\android-sdk_r24.4.1-windows\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\Dell\Desktop\ImageSelected1\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_e5542e7fc8ecb8e842c0870e641ce7a905072b0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\Desktop\ImageSelected1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="C:\Users\Dell\Desktop\ImageSelected1\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-19.1.0_15e61b1c810856b294175ff67867239417abdf76.jar" />
+    </item>
+
+</items>
